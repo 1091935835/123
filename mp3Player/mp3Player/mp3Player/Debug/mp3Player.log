@@ -1,0 +1,5 @@
+﻿  songLists.c
+C:\Users\25409\Desktop\mp3Player\mp3Player\mp3Player\songLists.c(9,7): warning C4101: “address”: 未引用的局部变量
+C:\Users\25409\Desktop\mp3Player\mp3Player\mp3Player\songLists.c(22): warning C4172: 返回局部变量或临时变量的地址: temp
+C:\Users\25409\Desktop\mp3Player\mp3Player\mp3Player\songLists.c(130): warning C4172: 返回局部变量或临时变量的地址: choose
+  mp3Player.vcxproj -> C:\Users\25409\Desktop\mp3Player\mp3Player\Debug\mp3Player.exe
