@@ -1,0 +1,4 @@
+﻿  playFunctions.c
+C:\Users\10919\Desktop\mp3Player\mp3Player\mp3Player\playFunctions.c(204,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\10919\Desktop\mp3Player\mp3Player\mp3Player\playFunctions.c(218,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  mp3Player.vcxproj -> C:\Users\10919\Desktop\mp3Player\mp3Player\Debug\mp3Player.exe
