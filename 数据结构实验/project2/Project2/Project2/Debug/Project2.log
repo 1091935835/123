@@ -1,0 +1,5 @@
+﻿  basic.cpp
+D:\Desktop\大学\大二上\数据结构与算法分析\实验\project2\Project2\Project2\basic.cpp(81,6): warning C4101: “len”: 未引用的局部变量
+D:\Desktop\大学\大二上\数据结构与算法分析\实验\project2\Project2\Project2\basic.cpp(81,11): warning C4101: “index”: 未引用的局部变量
+D:\Desktop\大学\大二上\数据结构与算法分析\实验\project2\Project2\Project2\basic.cpp(264,6): warning C4101: “len”: 未引用的局部变量
+  Project2.vcxproj -> D:\Desktop\大学\大二上\数据结构与算法分析\实验\project2\Project2\Debug\Project2.exe

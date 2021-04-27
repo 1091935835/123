@@ -1,0 +1,6 @@
+C:\Users\W YC\Desktop\consoleapplication1\Debug\CalculatorApplication.exe
+C:\Users\W YC\Desktop\consoleapplication1\Debug\CalculatorApplication.pdb
+D:\Desktop\大学\数据结构与算法设计\实验\consoleapplication1\Debug\CalculatorApplication.exe
+D:\Desktop\大学\数据结构与算法设计\实验\consoleapplication1\Debug\CalculatorApplication.pdb
+D:\Desktop\大学\数据结构与算法设计\实验\project1\consoleapplication1\Debug\CalculatorApplication.exe
+D:\Desktop\大学\数据结构与算法设计\实验\project1\consoleapplication1\Debug\CalculatorApplication.pdb
