@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="坦克大战:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64f243b7-4471-4bf9-bb1a-b68d6d2b5541" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1blBR3gA4XjyvVaToJxNEgzL52i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/坦克大战/坦克大战JAR" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\坦克大战\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MapEditor">
+    <configuration name="Firstclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Firstclass" />
+      <module name="坦克大战" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapEditor.MapEditor" />
+      <module name="坦克大战" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapEditor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chuangti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pre.chuangti" />
+      <module name="坦克大战" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MapEditor" />
+        <item itemvalue="Application.Firstclass" />
+        <item itemvalue="Application.chuangti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f243b7-4471-4bf9-bb1a-b68d6d2b5541" name="Default Changelist" comment="" />
+      <created>1589196788116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589196788116</updated>
+      <workItem from="1589196793684" duration="2958000" />
+      <workItem from="1590948887502" duration="21617000" />
+      <workItem from="1591114989272" duration="100964000" />
+      <workItem from="1592730643134" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="18" key="#Project_Structure" timestamp="1589196862788">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="18" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1589196862788" />
+    <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1591521727777">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1591521727777" />
+    <state x="371" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591522516789">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1591522516789" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1591524160327">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1591524160327" />
+    <state width="1237" height="102" key="GridCell.Tab.0.bottom" timestamp="1591524778022">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591524778022" />
+    <state width="1237" height="102" key="GridCell.Tab.0.center" timestamp="1591524778021">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1591524778021" />
+    <state width="1237" height="102" key="GridCell.Tab.0.left" timestamp="1591524778021">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1591524778021" />
+    <state width="1237" height="102" key="GridCell.Tab.0.right" timestamp="1591524778022">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1591524778022" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1591524166302">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1591524166302" />
+    <state x="349" y="254" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591282705935">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="349" y="254" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.720@0.0.1280.720" timestamp="1591282705935" />
+    <state x="297" y="161" key="run.anything.popup" timestamp="1591519173628">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1591519173628" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1591523386917">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1591523386917" />
+  </component>
+</project>
